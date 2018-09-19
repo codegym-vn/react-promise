@@ -1,4 +1,6 @@
 # promise
+#
+Mã nguồn promise được sử dụng để thực hành tại [CodeGym](https://codegym.vn)
 ## Mục tiêu
     - Hiểu được cơ chế  hoạt động của promise
     - Biết cách khai báo promise, promise all, promise race
